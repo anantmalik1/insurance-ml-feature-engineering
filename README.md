@@ -1,12 +1,52 @@
-# insurance-ml-feature-engineering
-This is a machine learning feature engineering project for insurance data. In this repository, I preprocess and transform raw insurance data to create valuable features that help machine learning models make better predictions. The project includes:
 
-   * Data cleaning and missing value handling
+---
 
-   * Encoding categorical features and scaling numeric features
+## 📊 Dataset Description
 
-   * Generating new engineered features that improve model performance
+The dataset contains insurance-related information such as:
 
-   * Preparing the dataset for training ML models
+- Age
+- Gender
+- BMI
+- Children
+- Smoking Status
+- Region
+- Insurance Charges
 
-Feature engineering is a crucial step in insurance ML projects because it improves model accuracy by highlighting the most important signals from the data.
+These features are processed and transformed to make them suitable for ML models.
+
+---
+
+## 🎯 Learning Outcome
+
+After completing this project, you will understand:
+
+- Why feature engineering is important
+- How raw data is converted into ML-ready data
+- Best practices for preprocessing structured datasets
+- How to build a strong foundation before model training
+
+---
+
+## 🌟 Future Improvements
+
+- Apply Machine Learning models on the processed data
+- Perform feature importance analysis
+- Hyperparameter tuning
+- Model performance comparison
+
+---
+
+## 🙌 Acknowledgement
+
+This project is created for learning and practice purposes in **Machine Learning & Data Science**.
+
+---
+
+## 🔗 Connect With Me
+
+Feel free to check out my GitHub profile and explore more projects:
+
+👉 **GitHub:** https://github.com/anantmalik1
+
+If you find this project helpful, don’t forget to ⭐ star the repository!
